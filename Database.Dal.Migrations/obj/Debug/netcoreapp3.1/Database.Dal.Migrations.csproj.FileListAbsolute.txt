@@ -1,0 +1,8 @@
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\bin\Debug\netcoreapp3.1\Database.Dal.Migrations.deps.json
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\bin\Debug\netcoreapp3.1\Database.Dal.Migrations.dll
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\bin\Debug\netcoreapp3.1\Database.Dal.Migrations.pdb
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\obj\Debug\netcoreapp3.1\Database.Dal.Migrations.AssemblyInfoInputs.cache
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\obj\Debug\netcoreapp3.1\Database.Dal.Migrations.AssemblyInfo.cs
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\obj\Debug\netcoreapp3.1\Database.Dal.Migrations.csproj.CoreCompileInputs.cache
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\obj\Debug\netcoreapp3.1\Database.Dal.Migrations.dll
+E:\VSProjects\CSDiscordBot\Database.Dal.Migrations\obj\Debug\netcoreapp3.1\Database.Dal.Migrations.pdb

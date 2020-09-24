@@ -1,0 +1,8 @@
+E:\VSProjects\CSDiscordBot\Database.DAL\bin\Debug\netstandard2.0\Database.DAL.deps.json
+E:\VSProjects\CSDiscordBot\Database.DAL\bin\Debug\netstandard2.0\Database.DAL.dll
+E:\VSProjects\CSDiscordBot\Database.DAL\obj\Debug\netstandard2.0\Database.DAL.AssemblyInfoInputs.cache
+E:\VSProjects\CSDiscordBot\Database.DAL\obj\Debug\netstandard2.0\Database.DAL.AssemblyInfo.cs
+E:\VSProjects\CSDiscordBot\Database.DAL\bin\Debug\netstandard2.0\Database.DAL.pdb
+E:\VSProjects\CSDiscordBot\Database.DAL\obj\Debug\netstandard2.0\Database.DAL.csproj.CoreCompileInputs.cache
+E:\VSProjects\CSDiscordBot\Database.DAL\obj\Debug\netstandard2.0\Database.DAL.dll
+E:\VSProjects\CSDiscordBot\Database.DAL\obj\Debug\netstandard2.0\Database.DAL.pdb
