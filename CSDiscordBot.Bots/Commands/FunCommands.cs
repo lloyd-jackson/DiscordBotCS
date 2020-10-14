@@ -174,5 +174,27 @@ namespace CSDiscordBot.Commands
 
             await ctx.Channel.SendMessageAsync(embed: BotInfoEmbed).ConfigureAwait(false);
         }
+        [Command("randint")]
+        public async Task RandInt(CommandContext ctx, int input1, int input2)
+        {
+            if (input1 > input2)
+            {
+                ErrorEmbed = new DiscordEmbedBuilder{
+                    Title = "your starting number must be greater than the end number",
+                    Color = DiscordColor.Red;
+                };
+                await ctx.Channel.SendMessageAsync(embed: ErrorEmbed).ConfigureAwait(false);
+            }
+            else 
+            {
+                Random rnd = new Random();
+                int Output  = rnd.Next(input1, input2);
+                OutputEmebed = new DiscordEmbedBuilder{
+                    Title = $"{Output}",
+                    Color = DiscordColor.Green
+                };
+                await ctx.Channel.SendMessageAsync(embed: OutputEmebed)
+            }
+        }
     }
 }
